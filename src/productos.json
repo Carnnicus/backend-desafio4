@@ -1,0 +1,46 @@
+[
+	{
+		"id": 2,
+		"title": "Primarca Roboute Guilliman",
+		"description": "Primarca Ultramarines",
+		"price": 140000,
+		"status": true,
+		"category": "Miniatura",
+		"thumbnail": "./public/img/guilliman.jpg",
+		"code": "PRGU",
+		"stock": "20"
+	},
+	{
+		"id": 3,
+		"title": "Ultramarine Primaris",
+		"description": "Space Marine Primaris",
+		"price": 40000,
+		"status": true,
+		"category": "Miniatura",
+		"thumbnail": "No se encuentra",
+		"code": "SMUP",
+		"stock": "40"
+	},
+	{
+		"id": 4,
+		"title": "Space Marine Salamandra",
+		"description": "Space Marine Salamandras",
+		"price": 25000,
+		"status": true,
+		"category": "Miniatura",
+		"thumbnail": "No se encuentra",
+		"code": "SMPS",
+		"stock": "30"
+	},
+	{
+		"id": 5,
+		"title": "Primarca Lion El'Jonson",
+		"description": "Primarca Angeles Oscuros",
+		"price": 120000,
+		"status": true,
+		"category": "Miniatura",
+		"thumbnail": "./public/img/lion.jpg",
+		"code": "PLJAO",
+		"stock": "15"
+	}
+]
